@@ -1,0 +1,181 @@
+method,tipo,q,hit@1,hit@5,top1
+bm25,parafrasis,¿Qué publicó sobre conectar un LLM local a un servidor MCP?,True,True,post-2026-08-31-31
+bm25,parafrasis,¿Hubo algún tutorial para crear un chatbot que responda sobre cualquier página web?,True,True,post-2026-08-08-6
+bm25,parafrasis,Quiero un proyecto para medir cuánto cuestan y cuánto tardan las llamadas a un modelo de lenguaje,True,True,post-2026-10-07-6
+bm25,parafrasis,¿Qué día compartió cómo hacer un agente que maneja la computadora?,True,True,destacado-septiembre-1
+bm25,parafrasis,¿Qué recomendó para evaluar el desempeño de un agente?,True,True,post-2026-10-21-17
+bm25,parafrasis,¿Dónde explica cómo configurar evaluaciones personalizadas para un pipeline de LLM?,True,True,post-2026-09-02-3
+bm25,parafrasis,Un pipeline que vuelve a entrenar el modelo cuando baja su rendimiento,True,True,post-2026-09-13-12
+bm25,parafrasis,¿Publicó algo sobre tableros para vigilar modelos en producción?,True,True,post-2026-09-20-16
+bm25,parafrasis,Integración continua y despliegue continuo para aplicaciones con LLM,True,True,post-2026-09-27-23
+bm25,parafrasis,¿Qué guía rápida compartió sobre ajuste fino de modelos?,True,True,destacado-octubre-4
+bm25,parafrasis,Un analista de datos automático que saca conclusiones de archivos CSV,True,True,destacado-octubre-6
+bm25,parafrasis,¿Cuál fue el proyecto de investigación de mercado con varios agentes?,True,True,post-2026-09-30-26
+bm25,parafrasis,Scraper web con múltiples agentes usando CrewAI,True,True,post-2026-10-14-12
+bm25,parafrasis,Agente de atención al cliente construido con LangGraph,True,True,post-2026-08-19-15
+bm25,parafrasis,¿Qué pasantías remotas se publicaron en septiembre?,True,True,post-2026-09-09-6
+bm25,parafrasis,Ofertas de empleo en ciencia de datos para recién graduados,True,True,post-2026-10-15-13
+bm25,parafrasis,¿Qué empresas contratan ingenieros de IA en remoto?,False,True,post-2026-10-16-14
+bm25,parafrasis,Consejos para una entrevista de programación de machine learning en vivo,True,True,post-2026-09-29-25
+bm25,parafrasis,Preguntas de diseño de sistemas de ML para preparar,True,True,post-2026-10-06-5
+bm25,parafrasis,¿Cómo explicar tus proyectos de IA en una entrevista?,True,True,post-2026-09-22-18
+bm25,parafrasis,Ejercicios de NumPy para ingenieros de ML,True,True,post-2026-10-20-16
+bm25,parafrasis,¿Qué ruta de aprendizaje compartió para IA que corre en el dispositivo sin nube?,True,True,post-2026-08-03-2
+bm25,parafrasis,Plan de un mes para aprender LLMs y agentes,True,True,post-2026-08-11-8
+bm25,parafrasis,Hoja de ruta de MLOps pensada para AI Engineers,True,True,post-2026-10-12-10
+bm25,parafrasis,¿Qué anunció sobre su libro de entrevistas?,True,True,destacado-septiembre-3
+bm25,parafrasis,Asistente de código que corrige sus propios errores,True,True,post-2026-08-28-25
+bm25,metodologia,¿Cómo se recolectaron los datos si Instagram no deja ver los canales desde la web?,False,True,post-2026-10-14-12
+bm25,metodologia,¿Qué días de octubre no hubo publicación?,True,True,contexto-octubre
+bm25,semantica,¿Qué recursos gratuitos recomendó para aprender a construir agentes?,True,True,post-2026-10-05-4
+bm25,semantica,¿Qué noticia comentó sobre una gran empresa tecnológica que lanzó un agente?,True,True,destacado-septiembre-2
+bm25,semantica,¿Qué habilidades perderán importancia en los próximos años?,True,True,post-2026-09-10-9
+bm25,semantica,¿Publicó algo para personas sin formación técnica?,False,False,contexto-septiembre
+bm25,semantica,¿Hubo contenido sobre reconocimiento de imágenes?,False,False,contexto-agosto
+bm25,semantica,¿Algún proyecto para hacerle preguntas a mis propios PDFs?,True,True,post-2026-08-02-1
+bm25,semantica,¿Cómo usa el autor los modelos de lenguaje en su día a día?,True,True,destacado-agosto-6
+bm25,semantica,¿Vale la pena seguir practicando programación para entrevistas?,True,True,post-2026-10-17-15
+bm25,semantica,¿Qué patrones de diseño con varios agentes conviene conocer?,False,True,post-2026-10-06-5
+bm25,semantica,Ideas de agentes para resolver problemas reales de empresas,True,True,post-2026-10-16-14
+bm25,fecha,¿Qué compartió el 17 de agosto?,True,True,post-2026-08-17-13
+bm25,fecha,¿Qué publicó el 6 de octubre?,False,False,post-2026-10-08-7
+bm25,fecha,¿Qué salió el 23 de septiembre?,True,True,post-2026-09-23-19
+bm25,mes,¿Cuál fue el banco de proyectos más grande de octubre?,True,True,destacado-octubre-1
+bm25,mes,¿Qué publicó sobre RAG en octubre?,True,True,post-2026-10-02-2
+bm25,mes,¿Qué publicó sobre RAG en septiembre?,True,True,post-2026-09-18-14
+bm25,metodologia,¿Qué temas dominaron septiembre frente a agosto?,False,True,post-2026-09-03-4
+tfidf,parafrasis,¿Qué publicó sobre conectar un LLM local a un servidor MCP?,True,True,post-2026-08-31-31
+tfidf,parafrasis,¿Hubo algún tutorial para crear un chatbot que responda sobre cualquier página web?,True,True,post-2026-08-08-6
+tfidf,parafrasis,Quiero un proyecto para medir cuánto cuestan y cuánto tardan las llamadas a un modelo de lenguaje,True,True,post-2026-10-07-6
+tfidf,parafrasis,¿Qué día compartió cómo hacer un agente que maneja la computadora?,True,True,destacado-septiembre-1
+tfidf,parafrasis,¿Qué recomendó para evaluar el desempeño de un agente?,True,True,post-2026-10-21-17
+tfidf,parafrasis,¿Dónde explica cómo configurar evaluaciones personalizadas para un pipeline de LLM?,True,True,post-2026-09-02-3
+tfidf,parafrasis,Un pipeline que vuelve a entrenar el modelo cuando baja su rendimiento,True,True,post-2026-09-13-12
+tfidf,parafrasis,¿Publicó algo sobre tableros para vigilar modelos en producción?,True,True,post-2026-09-20-16
+tfidf,parafrasis,Integración continua y despliegue continuo para aplicaciones con LLM,True,True,post-2026-09-27-23
+tfidf,parafrasis,¿Qué guía rápida compartió sobre ajuste fino de modelos?,True,True,destacado-octubre-4
+tfidf,parafrasis,Un analista de datos automático que saca conclusiones de archivos CSV,True,True,destacado-octubre-6
+tfidf,parafrasis,¿Cuál fue el proyecto de investigación de mercado con varios agentes?,True,True,post-2026-09-30-26
+tfidf,parafrasis,Scraper web con múltiples agentes usando CrewAI,True,True,post-2026-10-14-12
+tfidf,parafrasis,Agente de atención al cliente construido con LangGraph,True,True,post-2026-08-19-15
+tfidf,parafrasis,¿Qué pasantías remotas se publicaron en septiembre?,True,True,post-2026-09-09-6
+tfidf,parafrasis,Ofertas de empleo en ciencia de datos para recién graduados,True,True,post-2026-10-15-13
+tfidf,parafrasis,¿Qué empresas contratan ingenieros de IA en remoto?,True,True,post-2026-09-17-13
+tfidf,parafrasis,Consejos para una entrevista de programación de machine learning en vivo,True,True,post-2026-09-29-25
+tfidf,parafrasis,Preguntas de diseño de sistemas de ML para preparar,True,True,post-2026-10-06-5
+tfidf,parafrasis,¿Cómo explicar tus proyectos de IA en una entrevista?,True,True,post-2026-09-22-18
+tfidf,parafrasis,Ejercicios de NumPy para ingenieros de ML,True,True,post-2026-10-20-16
+tfidf,parafrasis,¿Qué ruta de aprendizaje compartió para IA que corre en el dispositivo sin nube?,True,True,post-2026-08-03-2
+tfidf,parafrasis,Plan de un mes para aprender LLMs y agentes,True,True,post-2026-08-11-8
+tfidf,parafrasis,Hoja de ruta de MLOps pensada para AI Engineers,True,True,post-2026-10-12-10
+tfidf,parafrasis,¿Qué anunció sobre su libro de entrevistas?,True,True,destacado-septiembre-3
+tfidf,parafrasis,Asistente de código que corrige sus propios errores,True,True,post-2026-08-28-25
+tfidf,metodologia,¿Cómo se recolectaron los datos si Instagram no deja ver los canales desde la web?,True,True,contexto-octubre
+tfidf,metodologia,¿Qué días de octubre no hubo publicación?,True,True,contexto-octubre
+tfidf,semantica,¿Qué recursos gratuitos recomendó para aprender a construir agentes?,True,True,post-2026-10-05-4
+tfidf,semantica,¿Qué noticia comentó sobre una gran empresa tecnológica que lanzó un agente?,True,True,destacado-septiembre-2
+tfidf,semantica,¿Qué habilidades perderán importancia en los próximos años?,True,True,post-2026-09-10-9
+tfidf,semantica,¿Publicó algo para personas sin formación técnica?,False,False,destacado-agosto-6
+tfidf,semantica,¿Hubo contenido sobre reconocimiento de imágenes?,False,False,destacado-septiembre-2
+tfidf,semantica,¿Algún proyecto para hacerle preguntas a mis propios PDFs?,True,True,post-2026-08-26-21
+tfidf,semantica,¿Cómo usa el autor los modelos de lenguaje en su día a día?,True,True,destacado-agosto-6
+tfidf,semantica,¿Vale la pena seguir practicando programación para entrevistas?,True,True,post-2026-10-17-15
+tfidf,semantica,¿Qué patrones de diseño con varios agentes conviene conocer?,True,True,post-2026-09-01-2
+tfidf,semantica,Ideas de agentes para resolver problemas reales de empresas,True,True,post-2026-10-16-14
+tfidf,fecha,¿Qué compartió el 17 de agosto?,False,True,post-2026-08-26-21
+tfidf,fecha,¿Qué publicó el 6 de octubre?,False,False,contexto-octubre
+tfidf,fecha,¿Qué salió el 23 de septiembre?,True,True,post-2026-09-23-19
+tfidf,mes,¿Cuál fue el banco de proyectos más grande de octubre?,True,True,destacado-octubre-1
+tfidf,mes,¿Qué publicó sobre RAG en octubre?,True,True,post-2026-10-02-2
+tfidf,mes,¿Qué publicó sobre RAG en septiembre?,True,True,post-2026-09-18-14
+tfidf,metodologia,¿Qué temas dominaron septiembre frente a agosto?,False,True,post-2026-08-31-1
+hybrid,parafrasis,¿Qué publicó sobre conectar un LLM local a un servidor MCP?,True,True,post-2026-08-31-31
+hybrid,parafrasis,¿Hubo algún tutorial para crear un chatbot que responda sobre cualquier página web?,True,True,post-2026-08-08-6
+hybrid,parafrasis,Quiero un proyecto para medir cuánto cuestan y cuánto tardan las llamadas a un modelo de lenguaje,True,True,post-2026-10-07-6
+hybrid,parafrasis,¿Qué día compartió cómo hacer un agente que maneja la computadora?,True,True,destacado-septiembre-1
+hybrid,parafrasis,¿Qué recomendó para evaluar el desempeño de un agente?,True,True,post-2026-10-21-17
+hybrid,parafrasis,¿Dónde explica cómo configurar evaluaciones personalizadas para un pipeline de LLM?,True,True,post-2026-09-02-3
+hybrid,parafrasis,Un pipeline que vuelve a entrenar el modelo cuando baja su rendimiento,True,True,post-2026-09-13-12
+hybrid,parafrasis,¿Publicó algo sobre tableros para vigilar modelos en producción?,True,True,post-2026-09-20-16
+hybrid,parafrasis,Integración continua y despliegue continuo para aplicaciones con LLM,True,True,post-2026-09-27-23
+hybrid,parafrasis,¿Qué guía rápida compartió sobre ajuste fino de modelos?,True,True,destacado-octubre-4
+hybrid,parafrasis,Un analista de datos automático que saca conclusiones de archivos CSV,True,True,destacado-octubre-6
+hybrid,parafrasis,¿Cuál fue el proyecto de investigación de mercado con varios agentes?,True,True,post-2026-09-30-26
+hybrid,parafrasis,Scraper web con múltiples agentes usando CrewAI,True,True,post-2026-10-14-12
+hybrid,parafrasis,Agente de atención al cliente construido con LangGraph,True,True,post-2026-08-19-15
+hybrid,parafrasis,¿Qué pasantías remotas se publicaron en septiembre?,True,True,post-2026-09-09-6
+hybrid,parafrasis,Ofertas de empleo en ciencia de datos para recién graduados,True,True,post-2026-10-15-13
+hybrid,parafrasis,¿Qué empresas contratan ingenieros de IA en remoto?,True,True,post-2026-09-17-13
+hybrid,parafrasis,Consejos para una entrevista de programación de machine learning en vivo,True,True,post-2026-09-29-25
+hybrid,parafrasis,Preguntas de diseño de sistemas de ML para preparar,True,True,post-2026-10-06-5
+hybrid,parafrasis,¿Cómo explicar tus proyectos de IA en una entrevista?,True,True,post-2026-09-22-18
+hybrid,parafrasis,Ejercicios de NumPy para ingenieros de ML,True,True,post-2026-10-20-16
+hybrid,parafrasis,¿Qué ruta de aprendizaje compartió para IA que corre en el dispositivo sin nube?,True,True,post-2026-08-03-2
+hybrid,parafrasis,Plan de un mes para aprender LLMs y agentes,True,True,post-2026-08-11-8
+hybrid,parafrasis,Hoja de ruta de MLOps pensada para AI Engineers,True,True,post-2026-10-12-10
+hybrid,parafrasis,¿Qué anunció sobre su libro de entrevistas?,True,True,destacado-septiembre-3
+hybrid,parafrasis,Asistente de código que corrige sus propios errores,True,True,post-2026-08-28-25
+hybrid,metodologia,¿Cómo se recolectaron los datos si Instagram no deja ver los canales desde la web?,True,True,contexto-octubre
+hybrid,metodologia,¿Qué días de octubre no hubo publicación?,True,True,contexto-octubre
+hybrid,semantica,¿Qué recursos gratuitos recomendó para aprender a construir agentes?,True,True,post-2026-10-05-4
+hybrid,semantica,¿Qué noticia comentó sobre una gran empresa tecnológica que lanzó un agente?,True,True,destacado-septiembre-2
+hybrid,semantica,¿Qué habilidades perderán importancia en los próximos años?,True,True,post-2026-09-10-9
+hybrid,semantica,¿Publicó algo para personas sin formación técnica?,False,False,contexto-agosto
+hybrid,semantica,¿Hubo contenido sobre reconocimiento de imágenes?,False,False,contexto-agosto
+hybrid,semantica,¿Algún proyecto para hacerle preguntas a mis propios PDFs?,True,True,post-2026-08-26-21
+hybrid,semantica,¿Cómo usa el autor los modelos de lenguaje en su día a día?,True,True,destacado-agosto-6
+hybrid,semantica,¿Vale la pena seguir practicando programación para entrevistas?,True,True,post-2026-10-17-15
+hybrid,semantica,¿Qué patrones de diseño con varios agentes conviene conocer?,False,True,post-2026-10-06-5
+hybrid,semantica,Ideas de agentes para resolver problemas reales de empresas,True,True,post-2026-10-16-14
+hybrid,fecha,¿Qué compartió el 17 de agosto?,True,True,post-2026-08-17-13
+hybrid,fecha,¿Qué publicó el 6 de octubre?,False,False,contexto-octubre
+hybrid,fecha,¿Qué salió el 23 de septiembre?,True,True,post-2026-09-23-19
+hybrid,mes,¿Cuál fue el banco de proyectos más grande de octubre?,True,True,destacado-octubre-1
+hybrid,mes,¿Qué publicó sobre RAG en octubre?,True,True,post-2026-10-02-2
+hybrid,mes,¿Qué publicó sobre RAG en septiembre?,True,True,post-2026-09-18-14
+hybrid,metodologia,¿Qué temas dominaron septiembre frente a agosto?,True,True,contexto-septiembre
+hybrid+filtro,parafrasis,¿Qué publicó sobre conectar un LLM local a un servidor MCP?,True,True,post-2026-08-31-31
+hybrid+filtro,parafrasis,¿Hubo algún tutorial para crear un chatbot que responda sobre cualquier página web?,True,True,post-2026-08-08-6
+hybrid+filtro,parafrasis,Quiero un proyecto para medir cuánto cuestan y cuánto tardan las llamadas a un modelo de lenguaje,True,True,post-2026-10-07-6
+hybrid+filtro,parafrasis,¿Qué día compartió cómo hacer un agente que maneja la computadora?,True,True,destacado-septiembre-1
+hybrid+filtro,parafrasis,¿Qué recomendó para evaluar el desempeño de un agente?,True,True,post-2026-10-21-17
+hybrid+filtro,parafrasis,¿Dónde explica cómo configurar evaluaciones personalizadas para un pipeline de LLM?,True,True,post-2026-09-02-3
+hybrid+filtro,parafrasis,Un pipeline que vuelve a entrenar el modelo cuando baja su rendimiento,True,True,post-2026-09-13-12
+hybrid+filtro,parafrasis,¿Publicó algo sobre tableros para vigilar modelos en producción?,True,True,post-2026-09-20-16
+hybrid+filtro,parafrasis,Integración continua y despliegue continuo para aplicaciones con LLM,True,True,post-2026-09-27-23
+hybrid+filtro,parafrasis,¿Qué guía rápida compartió sobre ajuste fino de modelos?,True,True,destacado-octubre-4
+hybrid+filtro,parafrasis,Un analista de datos automático que saca conclusiones de archivos CSV,True,True,destacado-octubre-6
+hybrid+filtro,parafrasis,¿Cuál fue el proyecto de investigación de mercado con varios agentes?,True,True,post-2026-09-30-26
+hybrid+filtro,parafrasis,Scraper web con múltiples agentes usando CrewAI,True,True,post-2026-10-14-12
+hybrid+filtro,parafrasis,Agente de atención al cliente construido con LangGraph,True,True,post-2026-08-19-15
+hybrid+filtro,parafrasis,¿Qué pasantías remotas se publicaron en septiembre?,True,True,post-2026-09-09-6
+hybrid+filtro,parafrasis,Ofertas de empleo en ciencia de datos para recién graduados,True,True,post-2026-10-15-13
+hybrid+filtro,parafrasis,¿Qué empresas contratan ingenieros de IA en remoto?,True,True,post-2026-09-17-13
+hybrid+filtro,parafrasis,Consejos para una entrevista de programación de machine learning en vivo,True,True,post-2026-09-29-25
+hybrid+filtro,parafrasis,Preguntas de diseño de sistemas de ML para preparar,True,True,post-2026-10-06-5
+hybrid+filtro,parafrasis,¿Cómo explicar tus proyectos de IA en una entrevista?,True,True,post-2026-09-22-18
+hybrid+filtro,parafrasis,Ejercicios de NumPy para ingenieros de ML,True,True,post-2026-10-20-16
+hybrid+filtro,parafrasis,¿Qué ruta de aprendizaje compartió para IA que corre en el dispositivo sin nube?,True,True,post-2026-08-03-2
+hybrid+filtro,parafrasis,Plan de un mes para aprender LLMs y agentes,True,True,post-2026-08-11-8
+hybrid+filtro,parafrasis,Hoja de ruta de MLOps pensada para AI Engineers,True,True,post-2026-10-12-10
+hybrid+filtro,parafrasis,¿Qué anunció sobre su libro de entrevistas?,True,True,destacado-septiembre-3
+hybrid+filtro,parafrasis,Asistente de código que corrige sus propios errores,True,True,post-2026-08-28-25
+hybrid+filtro,metodologia,¿Cómo se recolectaron los datos si Instagram no deja ver los canales desde la web?,True,True,contexto-octubre
+hybrid+filtro,metodologia,¿Qué días de octubre no hubo publicación?,True,True,contexto-octubre
+hybrid+filtro,semantica,¿Qué recursos gratuitos recomendó para aprender a construir agentes?,True,True,post-2026-10-05-4
+hybrid+filtro,semantica,¿Qué noticia comentó sobre una gran empresa tecnológica que lanzó un agente?,True,True,destacado-septiembre-2
+hybrid+filtro,semantica,¿Qué habilidades perderán importancia en los próximos años?,True,True,post-2026-09-10-9
+hybrid+filtro,semantica,¿Publicó algo para personas sin formación técnica?,False,False,contexto-agosto
+hybrid+filtro,semantica,¿Hubo contenido sobre reconocimiento de imágenes?,False,False,contexto-agosto
+hybrid+filtro,semantica,¿Algún proyecto para hacerle preguntas a mis propios PDFs?,True,True,post-2026-08-26-21
+hybrid+filtro,semantica,¿Cómo usa el autor los modelos de lenguaje en su día a día?,True,True,destacado-agosto-6
+hybrid+filtro,semantica,¿Vale la pena seguir practicando programación para entrevistas?,True,True,post-2026-10-17-15
+hybrid+filtro,semantica,¿Qué patrones de diseño con varios agentes conviene conocer?,False,True,post-2026-10-06-5
+hybrid+filtro,semantica,Ideas de agentes para resolver problemas reales de empresas,True,True,post-2026-10-16-14
+hybrid+filtro,fecha,¿Qué compartió el 17 de agosto?,True,True,post-2026-08-17-13
+hybrid+filtro,fecha,¿Qué publicó el 6 de octubre?,True,True,post-2026-10-06-5
+hybrid+filtro,fecha,¿Qué salió el 23 de septiembre?,True,True,post-2026-09-23-19
+hybrid+filtro,mes,¿Cuál fue el banco de proyectos más grande de octubre?,True,True,destacado-octubre-1
+hybrid+filtro,mes,¿Qué publicó sobre RAG en octubre?,True,True,post-2026-10-02-2
+hybrid+filtro,mes,¿Qué publicó sobre RAG en septiembre?,True,True,post-2026-09-18-14
+hybrid+filtro,metodologia,¿Qué temas dominaron septiembre frente a agosto?,True,True,contexto-septiembre

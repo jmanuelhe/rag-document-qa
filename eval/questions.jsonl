@@ -1,0 +1,45 @@
+{"q": "¿Qué publicó sobre conectar un LLM local a un servidor MCP?", "gold": ["post-2026-08-31-31"], "tipo": "parafrasis"}
+{"q": "¿Hubo algún tutorial para crear un chatbot que responda sobre cualquier página web?", "gold": ["post-2026-08-08-6"], "tipo": "parafrasis"}
+{"q": "Quiero un proyecto para medir cuánto cuestan y cuánto tardan las llamadas a un modelo de lenguaje", "gold": ["post-2026-10-07-6"], "tipo": "parafrasis"}
+{"q": "¿Qué día compartió cómo hacer un agente que maneja la computadora?", "gold": ["post-2026-09-09-7"], "tipo": "parafrasis"}
+{"q": "¿Qué recomendó para evaluar el desempeño de un agente?", "gold": ["post-2026-10-21-17"], "tipo": "parafrasis"}
+{"q": "¿Dónde explica cómo configurar evaluaciones personalizadas para un pipeline de LLM?", "gold": ["post-2026-09-02-3"], "tipo": "parafrasis"}
+{"q": "Un pipeline que vuelve a entrenar el modelo cuando baja su rendimiento", "gold": ["post-2026-09-13-12"], "tipo": "parafrasis"}
+{"q": "¿Publicó algo sobre tableros para vigilar modelos en producción?", "gold": ["post-2026-09-20-16"], "tipo": "parafrasis"}
+{"q": "Integración continua y despliegue continuo para aplicaciones con LLM", "gold": ["post-2026-09-27-23"], "tipo": "parafrasis"}
+{"q": "¿Qué guía rápida compartió sobre ajuste fino de modelos?", "gold": ["post-2026-10-25-21"], "tipo": "parafrasis"}
+{"q": "Un analista de datos automático que saca conclusiones de archivos CSV", "gold": ["post-2026-10-28-23"], "tipo": "parafrasis"}
+{"q": "¿Cuál fue el proyecto de investigación de mercado con varios agentes?", "gold": ["post-2026-09-30-26"], "tipo": "parafrasis"}
+{"q": "Scraper web con múltiples agentes usando CrewAI", "gold": ["post-2026-10-14-12"], "tipo": "parafrasis"}
+{"q": "Agente de atención al cliente construido con LangGraph", "gold": ["post-2026-08-19-15"], "tipo": "parafrasis"}
+{"q": "¿Qué pasantías remotas se publicaron en septiembre?", "gold": ["post-2026-09-09-6", "post-2026-09-03-4"], "tipo": "parafrasis"}
+{"q": "Ofertas de empleo en ciencia de datos para recién graduados", "gold": ["post-2026-10-15-13"], "tipo": "parafrasis"}
+{"q": "¿Qué empresas contratan ingenieros de IA en remoto?", "gold": ["post-2026-09-17-13"], "tipo": "parafrasis"}
+{"q": "Consejos para una entrevista de programación de machine learning en vivo", "gold": ["post-2026-09-29-25"], "tipo": "parafrasis"}
+{"q": "Preguntas de diseño de sistemas de ML para preparar", "gold": ["post-2026-10-06-5"], "tipo": "parafrasis"}
+{"q": "¿Cómo explicar tus proyectos de IA en una entrevista?", "gold": ["post-2026-09-22-18"], "tipo": "parafrasis"}
+{"q": "Ejercicios de NumPy para ingenieros de ML", "gold": ["post-2026-10-20-16"], "tipo": "parafrasis"}
+{"q": "¿Qué ruta de aprendizaje compartió para IA que corre en el dispositivo sin nube?", "gold": ["post-2026-08-03-2"], "tipo": "parafrasis"}
+{"q": "Plan de un mes para aprender LLMs y agentes", "gold": ["post-2026-08-11-8"], "tipo": "parafrasis"}
+{"q": "Hoja de ruta de MLOps pensada para AI Engineers", "gold": ["post-2026-10-12-10"], "tipo": "parafrasis"}
+{"q": "¿Qué anunció sobre su libro de entrevistas?", "gold": ["post-2026-09-11-10"], "tipo": "parafrasis"}
+{"q": "Asistente de código que corrige sus propios errores", "gold": ["post-2026-08-28-25"], "tipo": "parafrasis"}
+{"q": "¿Cómo se recolectaron los datos si Instagram no deja ver los canales desde la web?", "gold": ["contexto-agosto", "contexto-septiembre", "contexto-octubre"], "tipo": "metodologia"}
+{"q": "¿Qué días de octubre no hubo publicación?", "gold": ["contexto-octubre"], "tipo": "metodologia"}
+{"q": "¿Qué recursos gratuitos recomendó para aprender a construir agentes?", "gold": ["post-2026-10-05-4", "post-2026-09-28-24", "post-2026-10-26-22"], "tipo": "semantica"}
+{"q": "¿Qué noticia comentó sobre una gran empresa tecnológica que lanzó un agente?", "gold": ["post-2026-09-10-8"], "tipo": "semantica"}
+{"q": "¿Qué habilidades perderán importancia en los próximos años?", "gold": ["post-2026-09-10-9"], "tipo": "semantica"}
+{"q": "¿Publicó algo para personas sin formación técnica?", "gold": ["post-2026-08-30-28"], "tipo": "semantica"}
+{"q": "¿Hubo contenido sobre reconocimiento de imágenes?", "gold": ["post-2026-08-05-4", "post-2026-08-12-9"], "tipo": "semantica"}
+{"q": "¿Algún proyecto para hacerle preguntas a mis propios PDFs?", "gold": ["post-2026-08-02-1", "post-2026-08-30-29", "post-2026-08-26-21"], "tipo": "semantica"}
+{"q": "¿Cómo usa el autor los modelos de lenguaje en su día a día?", "gold": ["post-2026-08-16-12"], "tipo": "semantica"}
+{"q": "¿Vale la pena seguir practicando programación para entrevistas?", "gold": ["post-2026-10-17-15"], "tipo": "semantica"}
+{"q": "¿Qué patrones de diseño con varios agentes conviene conocer?", "gold": ["post-2026-09-01-2"], "tipo": "semantica"}
+{"q": "Ideas de agentes para resolver problemas reales de empresas", "gold": ["post-2026-10-16-14", "post-2026-09-25-21"], "tipo": "semantica"}
+{"q": "¿Qué compartió el 17 de agosto?", "gold": ["post-2026-08-17-13"], "tipo": "fecha"}
+{"q": "¿Qué publicó el 6 de octubre?", "gold": ["post-2026-10-06-5"], "tipo": "fecha"}
+{"q": "¿Qué salió el 23 de septiembre?", "gold": ["post-2026-09-23-19"], "tipo": "fecha"}
+{"q": "¿Cuál fue el banco de proyectos más grande de octubre?", "gold": ["post-2026-10-09-8"], "tipo": "mes"}
+{"q": "¿Qué publicó sobre RAG en octubre?", "gold": ["post-2026-10-02-2"], "tipo": "mes"}
+{"q": "¿Qué publicó sobre RAG en septiembre?", "gold": ["post-2026-09-18-14"], "tipo": "mes"}
+{"q": "¿Qué temas dominaron septiembre frente a agosto?", "gold": ["contexto-septiembre"], "tipo": "metodologia"}

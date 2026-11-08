@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+python-docx>=1.1
+anthropic>=0.40
+streamlit>=1.38
+pytest>=8.0
